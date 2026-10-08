@@ -11,7 +11,7 @@ about a fifth of the evaluated rows are like that. Six relations: two numeric,
 counted correct within 5%, and four set-valued, one of which can have hundreds
 of answers.
 
-No web search, no retrieval, no fine-tuning. Open weights only, 32B total.
+No web search, no retrieval, no fine-tuning. Open weights only, 32B total parameters
 
 ## The finding
 

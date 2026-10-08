@@ -1,4 +1,4 @@
-# Chat comparator
+# Instruction-tuned System
 
 The instruction-tuned system, run through each checkpoint's **chat** interface.
 It exists so the instruction tax is measured against a strong opponent rather
